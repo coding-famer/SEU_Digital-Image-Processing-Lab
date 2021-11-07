@@ -1,0 +1,42 @@
+﻿生成启动时间为 2021/11/5 19:00:28。
+     1>项目“D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Grey\Grey.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Grey.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Grey.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GreyView.cpp
+         GreyView.cpp
+     1>d:\学习\大三上\数字图像处理\lab\lab2\grey\grey\greyview.cpp(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\学习\大三上\数字图像处理\lab\lab2\grey\grey\greyview.cpp(205): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(234) : 参见“fopen”的声明
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Debug\Grey.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Grey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Debug\Grey.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Debug\Grey.lib" /MACHINE:X86 Debug\Grey.res
+         Debug\Grey.exe.embed.manifest.res
+         Debug\GrayImg.obj
+         Debug\Grey.obj
+         Debug\GreyDoc.obj
+         Debug\GreyView.obj
+         Debug\ImgWnd.obj
+         Debug\KneeShowDlg.obj
+         Debug\LungShowDlg.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Grey.exe.embed.manifest" /manifest Debug\Grey.exe.intermediate.manifest "D:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Grey.vcxproj -> D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Debug\Grey.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Grey.unsuccessfulbuild”。
+         正在对“Debug\Grey.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\学习\大三上\数字图像处理\Lab\Lab2\Grey\Grey\Grey.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.99
