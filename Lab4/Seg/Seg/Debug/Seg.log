@@ -1,0 +1,36 @@
+﻿生成启动时间为 2021/12/2 17:07:23。
+     1>项目“D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Seg\Seg.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Seg.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Seg.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Segmentation.cpp
+         Segmentation.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Debug\Seg.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Seg.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Debug\Seg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Debug\Seg.lib" /MACHINE:X86 Debug\Seg.res
+         Debug\Seg.exe.embed.manifest.res
+         Debug\ImgWnd.obj
+         Debug\MainFrm.obj
+         Debug\Seg.obj
+         Debug\SegDoc.obj
+         Debug\Segmentation.obj
+         Debug\SegView.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Seg.exe.embed.manifest" /manifest Debug\Seg.exe.intermediate.manifest "D:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Seg.vcxproj -> D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Debug\Seg.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Seg.unsuccessfulbuild”。
+         正在对“Debug\Seg.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\学习\大三上\数字图像处理\Lab\Lab4\Seg\Seg\Seg.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12
